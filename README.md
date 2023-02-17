@@ -8,7 +8,7 @@ In this project, GUI is designed that automatically detects the type of geometri
 - You can upload the image you want by clicking the "Select Image" button. 
 - When you press the "Geometric Shape Counter" button, it shows the area, perimeter, and type of the image you selected. It also prints how many of each shape is in the image
 
-![alternatif metin](animation.gif)
+![alternatif metin](Result_gui.gif)
 
 
 **NOTE:** There are some image samples for the application in the folder named Images. You can also upload any extra images you want here before running the project.
